@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body{
+font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+}
+
+.main{
+    font-size: 50px;
+    text-align: center;
+}
+.main-sgp{
+    margin: 0px;
+}
+.main-hira{
+    margin: 0px;
+}
+
+.sgp_img{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.link{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+}
