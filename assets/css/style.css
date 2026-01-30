@@ -1,7 +1,11 @@
 @charset "utf-8";
 
+/* base */
 body{
-font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-family:"Noto Sans" "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #333;
 }
 
 .main{
@@ -31,3 +35,21 @@ font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic
     display: block;
     text-align: center;
 }
+
+/* menber */
+.menber{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* yuna */
+.yuna{
+    margin: 0;
+    display: flex;
+}
+.yuna-picture{
+    width: 50%;
+    height: auto;
+}
+.yuna-figcaption{}
