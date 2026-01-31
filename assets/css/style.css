@@ -63,3 +63,23 @@ body{
     width: 50%;
     height: auto;
 }
+
+/* maika */
+.maika{
+    margin: 0;
+    display: flex;
+}
+.maika-picture{
+    width: 50%;
+    height: auto;
+}
+
+/* takuma */
+.takuma{
+    margin: 0;
+    display: flex;
+}
+.takuma-picture{
+    width: 50%;
+    height: auto;
+}
