@@ -36,8 +36,8 @@ body{
     text-align: center;
 }
 
-/* menber */
-.menber{
+/* member */
+.member{
     text-align: center;
     font-size: 40px;
     font-weight: bold;
@@ -53,3 +53,13 @@ body{
     height: auto;
 }
 .yuna-figcaption{}
+
+/* hyuga */
+.hyuga{
+    margin: 0;
+    display: flex;
+}
+.hyuga-picture{
+    width: 50%;
+    height: auto;
+}
