@@ -36,6 +36,13 @@ body{
     text-align: center;
 }
 
+/* about */
+.about{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
 /* member */
 .member{
     text-align: center;
