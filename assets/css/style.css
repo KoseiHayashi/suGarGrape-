@@ -45,7 +45,7 @@ body{
 }
 .yuna-picture{
     width: 50%;
-    height: auto;
+    height: calc(100% * (4080 / 3020));
 }
 
 /* hyuga */
@@ -55,7 +55,8 @@ body{
 }
 .hyuga-picture{
     width: 50%;
-    height: auto;
+    height: calc(100% * (4080 / 3020));
+    float: right;
 }
 
 /* maika */
@@ -65,7 +66,7 @@ body{
 }
 .maika-picture{
     width: 50%;
-    height: auto;
+    height: calc(100% * (4080 / 3020));
 }
 
 /* takuma */
@@ -75,7 +76,7 @@ body{
 }
 .takuma-picture{
     width: 50%;
-    height: auto;
+    height: calc(100% * (4080 / 3020));
 }
 
 .link{
