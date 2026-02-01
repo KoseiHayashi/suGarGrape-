@@ -25,6 +25,7 @@ body{
     height: auto;
     display: block;
     margin: 0 auto;
+    border-radius: 20px;
 }
 
 /* section */
@@ -42,10 +43,12 @@ body{
 .yuna{
     margin: 0;
     display: flex;
+    height: ;
 }
 .yuna-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
+    border-radius: 20px;
 }
 
 /* hyuga */
@@ -56,6 +59,7 @@ body{
 .hyuga-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
+    border-radius: 20px;
     float: right;
 }
 
@@ -67,6 +71,7 @@ body{
 .maika-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
+    border-radius: 20px;
 }
 
 /* takuma */
@@ -77,10 +82,12 @@ body{
 .takuma-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
+    border-radius: 20px;
 }
 
+/* link */
 .link{
-    font-size: 50px;
+    font-size: 40px;
     display: block;
     text-align: center;
 }
