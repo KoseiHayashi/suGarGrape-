@@ -30,7 +30,7 @@ body{
 
 /* section */
 
-/* .section{
+.section{
     text-align: center;
     font-size: 100%;
 }
@@ -40,7 +40,7 @@ body{
     text-align: center;
     font-size: 50px;
     font-weight: bold;
-} */
+}
 
 /* yuna */
 .yuna{
