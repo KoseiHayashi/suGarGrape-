@@ -94,3 +94,11 @@ body{
     display: block;
     text-align: center;
 }
+.linkinsta{
+    color: #333;
+    text-decoration: none;
+    transition: color .2s;
+}
+.linkinsta:hover{
+    color: red;
+}
