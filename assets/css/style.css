@@ -2,7 +2,7 @@
 
 /* base */
 body{
-    font-family:"Noto Sans" "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-family:"Noto Sans" "Helvetica Neue", "Helvetica", "Hiragino Sans", "Arial", "Yu Gothic", "Meiryo", "sans-serif";
     font-size: 15px;
     line-height: 1.5;
     color: #333;
@@ -40,6 +40,30 @@ body{
     text-align: center;
     font-size: 50px;
     font-weight: bold;
+    margin: 0;
+}
+.section-p{
+    margin: 0;
+}
+
+.section-1{
+    background-color: #e6f0f0;
+}
+
+.section-2{
+    background-color: #97cdf3;
+    margin: 0;
+    padding: 0;
+}
+
+.section-3{
+    background-color: #7fd9d2;
+    margin: 0;
+    padding: 0;
+}
+
+.section-4{
+    background-color: #ffffff;
 }
 
 /* right */
@@ -50,10 +74,15 @@ body{
     align-items: center;
 }
 
+.r-figcaption{
+  margin: auto;
+}
+
 .r-picture{
-    width: 50%;
+    width: 49%;
     height: calc(100% * (4080 / 3020));
     border-radius: 20px;
+    margin-right: 1%;
 }
 
 
@@ -63,10 +92,16 @@ body{
     display: flex;
     align-items: center;
 }
+
+.l-figcaption{
+  margin: auto;
+}
+
 .l-picture{
-    width: 50%;
+    width: 49%;
     height: calc(100% * (4080 / 3020));
     border-radius: 20px;
+    margin-left: 1%;
 }
 
 
