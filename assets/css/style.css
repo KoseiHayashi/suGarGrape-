@@ -54,6 +54,7 @@ body{
     background-color: #97cdf3;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .section-3{
@@ -73,9 +74,8 @@ body{
     flex-direction: row-reverse;
     align-items: center;
 }
-
 .r-figcaption{
-  margin: auto;
+    margin: auto;
 }
 
 .r-picture{
@@ -91,6 +91,7 @@ body{
     margin: 0;
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .l-figcaption{
