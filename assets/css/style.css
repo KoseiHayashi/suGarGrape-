@@ -42,54 +42,33 @@ body{
     font-weight: bold;
 }
 
-/* yuna */
-.yuna{
+/* right */
+.member-r{
     margin: 0;
     display: flex;
     flex-direction: row-reverse;
+    align-items: center;
 }
 
-.yuna-picture{
+.r-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
     border-radius: 20px;
 }
 
 
-/* hyuga */
-.hyuga{
+/* left */
+.member-l{
     margin: 0;
     display: flex;
+    align-items: center;
 }
-.hyuga-picture{
-    width: 50%;
-    height: calc(100% * (4080 / 3020));
-    border-radius: 20px;
-    float: right;
-}
-
-/* maika */
-.maika{
-    margin: 0;
-    display: flex;
-    flex-direction: row-reverse;
-}
-.maika-picture{
+.l-picture{
     width: 50%;
     height: calc(100% * (4080 / 3020));
     border-radius: 20px;
 }
 
-/* takuma */
-.takuma{
-    margin: 0;
-    display: flex;
-}
-.takuma-picture{
-    width: 50%;
-    height: calc(100% * (4080 / 3020));
-    border-radius: 20px;
-}
 
 
 /* link */
